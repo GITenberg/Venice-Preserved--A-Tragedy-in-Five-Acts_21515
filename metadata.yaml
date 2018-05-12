@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1272
     wikipedia: http://en.wikipedia.org/wiki/Dion_Boucicault
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21515#Venice-Preserved--A-Tragedy-in-Five-Acts
 gutenberg_issued: '2007-05-17'
 gutenberg_type: Text
 identifiers:
