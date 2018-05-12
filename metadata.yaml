@@ -1,0 +1,40 @@
+_repo: Venice-Preserved--A-Tragedy-in-Five-Acts_21515
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Otway, Thomas
+    birthdate: 1652
+    deathdate: 1685
+    gutenberg_agent_id: '24764'
+    url: http://www.gutenberg.org/2009/agents/24764
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Otway
+  editor:
+    agent_name: Boucicault, Dion
+    aliases:
+    - Boursecault, Dion L. (Dion Lardner)
+    - Borcicault, Dion
+    - Bourcicault, Dionysius Lardner
+    - Boursiquot, Dionysus Lardner
+    birthdate: 1820
+    deathdate: 1890
+    gutenberg_agent_id: '1272'
+    url: http://www.gutenberg.org/2009/agents/1272
+    wikipedia: http://en.wikipedia.org/wiki/Dion_Boucicault
+description: ''
+gutenberg_issued: '2007-05-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21515'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Venice (Italy) -- History -- 1508-1797 -- Drama'
+- !lcsh 'Tragedies'
+- !lcc 'PR'
+title: 'Venice Preserved: A Tragedy in Five Acts'
+url: http://www.gutenberg.org/ebooks/21515
